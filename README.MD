@@ -1,5 +1,6 @@
 # AWS Lambda + Google Spreadsheet API
 
+> [https://github.com/theoephraim/node-google-spreadsheet](https://github.com/theoephraim/node-google-spreadsheet)
 
 ## Usage
 
